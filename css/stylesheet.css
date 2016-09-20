@@ -1,0 +1,30 @@
+h1 {
+  font-family: sans-serif;
+}
+
+h2 {
+  font-family: fantasy;
+}
+
+h3 {
+  font-family: sans-serif;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+ul {
+  font-family: fantasy;
+  font-size: 25px;
+  line-height: 35px;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: blue;
+}
